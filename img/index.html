@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leave Application Form</title>
+    <link rel="icon" href="img/vel-logo.jfif">
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <header>
+    <div class="navs">
+       <img src="/img/vel-logo.jfif" alt="" class="logo"> <h3>VELAMMAL INSTITUTE OF TECHNOLOGY</h3>
+            <ul>
+                <li><a href="">home</a></li>
+                <li><a href="/login1/login.html">login</a></li>
+                <li><a href="">contact</a></li>
+                <li><a href="">help</a></li>
+                <li><a href="">about</a></li>
+            </ul>
+        </div>
+    </nav>
+</header>
+    <section>
+    <div class="leave">
+        <div class="image">
+           <img src="img/undraw_resume_re_hkth.svg" alt="" class="imgs">
+          
+        </div>
+        <div class="forms">
+            <h2>Leave Application From</h2>
+            <form action="/submitted.html">
+                <label for="">Name</label>
+                <input type="name" required placeholder="Enter your name">
+                <label for="">Register Number</label>
+                <input type="number" required placeholder="Enter your Register number">
+                <label for="">Department</label>
+                <select name="dept" id="dept">
+                    <option value="">CSE</option>
+                <option value="">ECE</option>
+                <option value="">IT</option>
+                <option value="">MECH</option>
+                <option value="">EEE</option>
+                
+            </select>
+            <label for="">Section</label>
+                <select name="sec" id="sec">
+                    <option value="">A</option>
+                    <option value="">B</option>
+                </select>
+                <label for="">Semester</label>
+                <select name="sem" id="sem">
+                    <option value="">I</option>
+                    <option value="">II</option>
+                    <option value="">III</option>
+                    <option value="">IV</option>
+                    <option value="">V</option>
+                    <option value="">VI</option>
+                    <option value="">VII</option>
+                    <option value="">VIII</option>
+                </select>
+                <label for="">Year</label>
+                <select name="year" id="year">
+                    <option value="">I</option>
+                    <option value="">II</option>
+                    <option value="">III</option>
+                    <option value="">IV</option>
+                </select>
+                <label for="">Leave from</label>
+                <input type="date">
+                <label for="">Leave to</label>
+                <input type="date">
+                <label for="">Time</label>
+                <input type="time">
+                <label for="">Reason</label>
+                <textarea name="message" id="message" cols="30" rows="10" required placeholder="Enter the valid reason"></textarea>
+                <input type="submit" >
+             </form>
+        </div>
+    </div>
+</section>
+</body>
+</html>
