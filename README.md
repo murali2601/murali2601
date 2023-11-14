@@ -6,6 +6,7 @@ Having a strength of helping my friends and teammates at any kind of situation m
 👍 Html
 👍 CSS
 👍 Django
+👍 React js
 👍 JavaScript
 👍 Python
 👍 SQL
