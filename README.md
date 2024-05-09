@@ -1,4 +1,4 @@
-Hi, I am from Krishnagiri, TamilNadu, India. Completed B.E. Computer Science and Engineering at Velammal Institute of Technology, Chennai., having a overall CGPA of 8.90/10 under Anna University, Chennai. Having a vast experience in UI/UX Designing, Web-Designing and Web-Development. Also I had deployed them on the free hosting called Netlify platform, you can check them onto my profile section.
+Hi, I am from Tirupathur, TamilNadu, India. Completed B.E. Computer Science and Engineering at Velammal Institute of Technology, Chennai., having a overall CGPA of 8.90/10 under Anna University, Chennai. Having a vast experience in UI/UX Designing, Web-Designing and Web-Development. Also I had deployed them on the free hosting called Netlify platform, you can check them onto my profile section.
 
 Having a strength of helping my friends and teammates at any kind of situation making their things easier. So far, throughout my academics, I have learnt the following languages,
 👍 C programming
