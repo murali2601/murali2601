@@ -1,44 +1,19 @@
-Hi, I am from Tirupathur, TamilNadu, India. Completed B.E. Computer Science and Engineering at Velammal Institute of Technology, Chennai., having a overall CGPA of 8.90/10 under Anna University, Chennai. Having a vast experience in UI/UX Designing, Web-Designing and Web-Development. Also I had deployed them on the free hosting called Netlify platform, you can check them onto my profile section.
+Hi there! 👋 I'm Murali Dharan S
+🚀 Software Engineer | C++ | Python | React.js 
 
-Having a strength of helping my friends and teammates at any kind of situation making their things easier. So far, throughout my academics, I have learnt the following languages,
-👍 C programming
-👍 Core Java
-👍 Html
-👍 CSS
-👍 Django
-👍 React js
-👍 JavaScript
-👍 Python
-👍 SQL
-👍 API Integration
-👍 UI/UX
+I have 1+ year of experience in software verification and validation, specializing in C, C++, Python, and React.js. My work involves ensuring the reliability of Advanced Driver Assistance Systems (ADAS/AD) while also exploring inter-process communication (IPC) with Iceoryx and ROS.
 
-And worked with professional software like,
-🖌️ Figma
-🖥️ Android Studio
-💭 Rational Rose
-🖼️ Adobe Lightroom
-🎬 Wondershare Filmora
-💻 VS code
-💻 Netbeans
-💻 PyCharm
-💻 SQL Query Browser
+🔹 Skills & Expertise:
+Programming: C, C++, Python, Java
+Web Development: React.js, Bootstrap, Django
+System & Network Programming: Linux IPC, Socket Programming
+Databases: PostgreSQL (learning), MySQL
 
-As windows tools, I have a knowledge on the following,
-✅ Ms Word
-✅ Ms PowerPoint
-✅ Ms Excel
+🔹 Notable Projects:
+ROS & Iceoryx IPC Integration for real-time data transfer
+Chat Room Application (C++ & Linux IPC)
+News Tracker Website (React.js & News API)
+Photography Blog Platform (Django-based)
+Android App Development (Android Studio)
 
-Operating Systems used with,
-✅ Windows 7,8.1,10
-✅ Ubuntu Linux 18.1 (Linux Distro)
-✅ Zorin os 16.1 (Linux Distro)
-
-At the same side, I also do post my projects or demo onto my social media profile,
-👉 Git-hub : https://github.com/murali2601
-👉 YouTube : https://youtube.com/@murali2601?feature=shared
-👉 Instagram : https://www.instagram.com/_murali_2601_/
-👉 Figma : https://www.figma.com/@_murali_2601_
-
-If you want to know more about me,
-then 💡visit : https://muralidharan.netlify.app
+I'm always eager to learn, contribute to open-source, and build efficient, scalable solutions. Let's connect and collaborate! 🚀
