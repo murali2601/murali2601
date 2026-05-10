@@ -6,9 +6,9 @@ dashboards. Currently expanding into full-stack development with
 Java, Spring Boot and MySQL.
 
 ## 🛠 Tech Stack
-- **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap
+- **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap, TypeScript
 - **State Management:** Redux, Context API
-- **Backend (learning):** Java, Spring Boot, MySQL
+- **Backend (learning):** Node.js , MongoDB , Postman API
 - **Tools:** Git, GitHub, Postman, VS Code
 
 ## 🚀 Projects
