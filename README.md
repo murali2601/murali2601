@@ -2,8 +2,7 @@
 
 Frontend Developer with 2.2 years of experience at Tata Elxsi, 
 building React.js applications for ADAS domain tools and internal 
-dashboards. Currently expanding into full-stack development with 
-Java, Spring Boot and MySQL.
+dashboards. 
 
 ## 🛠 Tech Stack
 - **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap, TypeScript
